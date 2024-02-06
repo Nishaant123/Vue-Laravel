@@ -12,6 +12,9 @@
             <h4
                 class="text-white-700 border-black	 border-2 text-center underline decoration-double uppercase bg-clip-border	bg-slate-400">
                 Pass Data Parent to child Components</h4>
+                <h4
+                class="text-white-700 border-black	 border-2 text-center underline decoration-double uppercase bg-clip-border	bg-slate-400">
+                Pass Data Parent to child Components</h4>
             <div class="max-w-[1320px] mx-auto grid lg:grid-cols-2 md:grid-cols-2">
                 <div
                     class="mt-8 mb-8 ml-auto mr-4 text-center flex w-40 pt-3 pb-3 pl-7 font-bold rounded-lg bg-pink-700 text-white">
